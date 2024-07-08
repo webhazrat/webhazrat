@@ -25,8 +25,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://babeljs.io/img/babel.svg" alt="babel" height="20"/></a> &nbsp;
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/></a> &nbsp;
+  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://babeljs.io/img/babel.svg" alt="babel" height="25"/></a> &nbsp;
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="25" height="25"/></a> &nbsp;
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="20" height="20"/></a> &nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/></a> &nbsp;
   <a href="https://d3js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="20" height="20"/></a> &nbsp;
