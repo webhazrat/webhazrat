@@ -30,8 +30,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webhazrat" alt="webhazrat" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webhazrat&show_icons=true&locale=en&layout=compact" alt="webhazrat" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=webhazrat&show_icons=true&locale=en&layout=compact" alt="webhazrat" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=webhazrat&show_icons=true&locale=en" alt="webhazrat" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=webhazrat&" alt="webhazrat" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=webhazrat&show_icons=true&locale=en" alt="webhazrat" /></p>
+
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=webhazrat&" alt="webhazrat" /></p>
