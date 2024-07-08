@@ -59,6 +59,6 @@
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=webhazrat&show_icons=true&locale=en&layout=compact&theme=dark" alt="webhazrat" width="33.33%" /></p>
 
-<p align="left">&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=webhazrat&show_icons=true&locale=en&theme=dark" alt="webhazrat" width="33.33%" /></p>
+<p align="center">&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=webhazrat&show_icons=true&locale=en&theme=dark" alt="webhazrat" width="33.33%" /></p>
 
-<p align="left">&nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=webhazrat&theme=dark" alt="webhazrat" width="33.33%" /></p>
+<p align="right">&nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=webhazrat&theme=dark" alt="webhazrat" width="33.33%" /></p>
