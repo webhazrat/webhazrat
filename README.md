@@ -55,12 +55,12 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webhazrat&label=Profile%20views&color=0e75b6&style=flat" alt="webhazrat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webhazrat&theme=dracula" alt="webhazrat" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webhazrat&theme=dark" alt="webhazrat" /></a> </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=webhazrat&show_icons=true&locale=en&layout=compact" alt="webhazrat" /></p>
-
-
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=webhazrat&show_icons=true&locale=en" alt="webhazrat" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=webhazrat&show_icons=true&locale=en&layout=compact&theme=dark" alt="webhazrat" /></p>
 
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=webhazrat&" alt="webhazrat" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=webhazrat&show_icons=true&locale=en&theme=dark" alt="webhazrat" /></p>
+
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=webhazrat&theme=dark" alt="webhazrat" /></p>
