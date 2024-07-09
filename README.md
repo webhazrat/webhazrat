@@ -57,16 +57,9 @@
   
   <a title="Mongodb" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" height="25"/></a> &nbsp;
   <a title="Mysql" href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="mysql" height="25"/></a> &nbsp;
-  
-  
-  
-  
-    
 </p>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webhazrat&label=Profile%20views&color=0e75b6&style=flat" alt="webhazrat" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webhazrat&theme=dark" alt="webhazrat" /></a> </p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=webhazrat&show_icons=true&locale=en&layout=compact&theme=dark" alt="webhazrat" width="26%" /> &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=webhazrat&show_icons=true&locale=en&theme=dark" alt="webhazrat" width="34%" /> &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=webhazrat&theme=dark" alt="webhazrat" width="36%" /></p>
 
