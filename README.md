@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mdhazrat445891@gmail.com**
 
-- 🌐 I am organizing a institute call ITWINDOW - A Digital Agency to provide innovative and modern solutions of web **https://itwindow.dev**
+- 🌐 I am organizing an institute called **ITWINDOW - A Digital Agency** to provide innovative and modern solutions of web **https://itwindow.dev**
 
 - ⚡ Fun fact **Code with Fun**
 
