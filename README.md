@@ -1,3 +1,5 @@
+
+<p><img src="https://raw.githubusercontent.com/webhazrat/webhazrat/main/Front%20End%20Development%20and%20UI%20UX%20Design.jpg" alt="webhazrat" /></p>
 <h1 align="center">Hi 👋, I'm Md Hazrat Ali</h1>
 <h3 align="center">Cutting-Edge UI/UX Design and Front-End Development Expertise</h3>
 
