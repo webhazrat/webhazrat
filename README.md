@@ -29,11 +29,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a title="HTML5" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" height="25"/></a> &nbsp;
-  <a title="CSS3" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" height="25"/></a> &nbsp;
-  <a title="jQuery" href="https://jquery.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="jQuery" /></a> &nbsp;
-  <a title="Bootstrap" href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" height="25"/></a> &nbsp;
-  <a title="Tailwind CSS" href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwind" height="25"/></a> &nbsp;
+  <a title="HTML5" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" height="30"/></a> &nbsp;
+  <a title="CSS3" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" height="30"/></a> &nbsp;
+  <a title="jQuery" href="https://jquery.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="jQuery" height="30" /></a> &nbsp;
+  <a title="Bootstrap" href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" height="30"/></a> &nbsp;
+  <a title="Tailwind CSS" href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwind" height="30"/></a> &nbsp;
+  <a title="Material UI" href="https://mui.com/material-ui/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="material-ui" height="30"/></a> &nbsp;
   
   <a title="Chartjs" href="https://www.chartjs.org" target="_blank" rel="noreferrer"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" height="25"/></a> &nbsp;
   <a title="D3js" href="https://d3js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" height="25"/></a> &nbsp;
@@ -44,7 +45,7 @@
   
   <a title="Youtube" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="25"/></a> &nbsp;
   <a title="Youtube" href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/mariadb-icon-512x340-txozryr2.png" alt="mariadb" height="25"/></a> &nbsp;
-  <a title="Youtube" href="https://materializecss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" height="25"/></a> &nbsp;
+  
   <a title="Youtube" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="25"/></a> &nbsp;
   <a title="Youtube" href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="25"/></a> &nbsp;
   <a title="Youtube" href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://media.dev.to/cdn-cgi/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4unrrweuaj1wyh25npgt.jpeg" alt="nextjs" height="25"/></a> &nbsp;
