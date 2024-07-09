@@ -29,15 +29,19 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+  <a title="HTML5" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" height="25"/></a> &nbsp;
+  <a title="CSS3" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" height="25"/></a> &nbsp;
+  <a title="jQuery" href="https://jquery.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="jQuery" /></a> &nbsp;
   <a title="Bootstrap" href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" height="25"/></a> &nbsp;
+  <a title="Tailwind CSS" href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwind" height="25"/></a> &nbsp;
+  
   <a title="Chartjs" href="https://www.chartjs.org" target="_blank" rel="noreferrer"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" height="25"/></a> &nbsp;
-  <a title="CSS3" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="25"/></a> &nbsp;
   <a title="D3js" href="https://d3js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" height="25"/></a> &nbsp;
   <a title="Express JS" href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="express" height="25"/></a> &nbsp;
   <a title="Youtube" href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="25"/></a> &nbsp;
   <a title="Youtube" href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="25"/></a> &nbsp;
   <a title="Youtube" href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="25"/></a> &nbsp;
-  <a title="Youtube" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="25"/></a> &nbsp;
+  
   <a title="Youtube" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="25"/></a> &nbsp;
   <a title="Youtube" href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/mariadb-icon-512x340-txozryr2.png" alt="mariadb" height="25"/></a> &nbsp;
   <a title="Youtube" href="https://materializecss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" height="25"/></a> &nbsp;
@@ -52,7 +56,7 @@
   <a title="Youtube" href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" height="25"/></a> &nbsp;
   <a title="Youtube" href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="25"/></a> &nbsp;
   <a title="Youtube" href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" height="25"/></a> &nbsp;
-  <a title="Youtube" href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="25"/></a> &nbsp;
+  
   <a title="Youtube" href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" height="25"/></a>
 </p>
   
