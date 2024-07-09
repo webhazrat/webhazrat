@@ -9,7 +9,7 @@
   
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **JavaScript, React, Next.js and Figma**
+- 💬 Ask me about **JavaScript, React, Next.js, Wordpress and Figma**
 
 - 📫 How to reach me **mdhazrat445891@gmail.com**
 
