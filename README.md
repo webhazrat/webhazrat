@@ -29,42 +29,39 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a title="HTML5" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" height="30"/></a> &nbsp;
-  <a title="CSS3" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" height="30"/></a> &nbsp;
-  <a title="jQuery" href="https://jquery.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="jQuery" height="30" /></a> &nbsp;
-  <a title="Bootstrap" href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" height="30"/></a> &nbsp;
-  <a title="Tailwind CSS" href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwind" height="30"/></a> &nbsp;
-  <a title="Material UI" href="https://mui.com/material-ui/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="material-ui" height="30"/></a> &nbsp;
+  <a title="HTML5" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" height="25"/></a> &nbsp;
+  <a title="CSS3" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" height="25"/></a> &nbsp;
+  <a title="jQuery" href="https://jquery.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="jQuery" height="25" /></a> &nbsp;
+  <a title="Bootstrap" href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" height="25"/></a> &nbsp;
+  <a title="Tailwind CSS" href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwind" height="25"/></a> &nbsp;
+  <a title="Material UI" href="https://mui.com/material-ui/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="material-ui" height="25"/></a> &nbsp;
 
-  <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" height="30"/></a> &nbsp;
-  <a title="Highcharts" href="https://www.highcharts.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/highcharts.svg" alt="highcharts" height="30"/></a> &nbsp;
-  <a title="D3js" href="https://d3js.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/d3-2.svg" alt="d3js" height="30"/></a> &nbsp;
-  <a title="React" href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" height="30"/></a> &nbsp;
-  <a title="Nextjs" href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" height="30"/></a> &nbsp;
-  <a title="Redux" href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" height="30"/></a> &nbsp;
-  <a title="Nodejs" href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" height="30"/></a> &nbsp;
-  <a title="Expressjs" href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://expressjs.com/images/favicon.png" alt="express" height="30"/></a> &nbsp;
-  <a title="Firebase" href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/firebase-2.svg" alt="firebase" height="30"/></a> &nbsp;
-  
-  <a title="Figma" href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="figma" height="30"/></a> &nbsp;
-  <a title="Photoshop" href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-6.svg" alt="photoshop" height="30"/></a> &nbsp;
-
-  <a title="React Native" href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="reactnative" height="30"/></a> &nbsp;
-  
-  <a title="Git" href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" height="30"/></a> &nbsp;
-  
- 
-  <a title="Mariadb" href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/mariadb-icon-512x340-txozryr2.png" alt="mariadb" height="25"/></a> &nbsp;
-  
-  <a title="Mongodb" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="25"/></a> &nbsp;
-  <a title="Mysql" href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="25"/></a> &nbsp;
-  
-  
-  
+  <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" height="25"/></a> &nbsp;
+  <a title="Highcharts" href="https://www.highcharts.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/highcharts.svg" alt="highcharts" height="25"/></a> &nbsp;
+  <a title="D3js" href="https://d3js.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/d3-2.svg" alt="d3js" height="25"/></a> &nbsp;
+  <a title="React" href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" height="25"/></a> &nbsp;
+  <a title="Nextjs" href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" height="25"/></a> &nbsp;
+  <a title="Redux" href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" height="25"/></a> &nbsp;
+  <a title="Nodejs" href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" height="25"/></a> &nbsp;
+  <a title="Expressjs" href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://expressjs.com/images/favicon.png" alt="express" height="25"/></a> &nbsp;
   <a title="PHP" href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="25"/></a> &nbsp;
-  <a title="Postman" href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="25"/></a> &nbsp;
+  <a title="Wordpress" href="https://www.wordpress.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg" alt="wordpress" height="25"/></a> &nbsp;
+  <a title="Firebase" href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/firebase-2.svg" alt="firebase" height="25"/></a> &nbsp;
+
+  <a title="Git" href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" height="25"/></a> &nbsp;
+  
+  <a title="Figma" href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="figma" height="25"/></a> &nbsp;
+  <a title="Photoshop" href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-6.svg" alt="photoshop" height="25"/></a> &nbsp;
+
+  <a title="React Native" href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="reactnative" height="25"/></a> &nbsp;
+  
+  <a title="Mongodb" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" height="25"/></a> &nbsp;
+  <a title="Mysql" href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="mysql" height="25"/></a> &nbsp;
   
   
+  
+  
+    
 </p>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webhazrat&label=Profile%20views&color=0e75b6&style=flat" alt="webhazrat" /> </p>
