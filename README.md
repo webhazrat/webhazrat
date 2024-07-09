@@ -3,8 +3,10 @@
 <h1 align="center">Hi 👋, I'm Md Hazrat Ali</h1>
 <h3 align="center">Cutting-Edge UI/UX Design and Front-End Development Expertise</h3>
 
-<p align="left"> <a href="https://twitter.com/webhazrat" target="blank"><img src="https://img.shields.io/twitter/follow/webhazrat?logo=twitter&style=for-the-badge" alt="webhazrat" /></a> </p>
+<p align="left"> <a href="https://twitter.com/webhazrat" target="blank"><img src="https://img.shields.io/twitter/follow/webhazrat?logo=twitter&style=for-the-badge" alt="webhazrat" /> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="webhazrat" height="20" width="30" /></a> </p>
 
+- 🌍 I'm based in Bangladesh
+  
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **JavaScript, React, Next.js and Figma**
