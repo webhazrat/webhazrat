@@ -35,30 +35,36 @@
   <a title="Bootstrap" href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" height="30"/></a> &nbsp;
   <a title="Tailwind CSS" href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwind" height="30"/></a> &nbsp;
   <a title="Material UI" href="https://mui.com/material-ui/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="material-ui" height="30"/></a> &nbsp;
+
+  <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" height="30"/></a> &nbsp;
+  <a title="Highcharts" href="https://www.highcharts.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/highcharts.svg" alt="highcharts" height="30"/></a> &nbsp;
+  <a title="D3js" href="https://d3js.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/d3-2.svg" alt="d3js" height="30"/></a> &nbsp;
+  <a title="React" href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" height="30"/></a> &nbsp;
+  <a title="Nextjs" href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" height="30"/></a> &nbsp;
+  <a title="Redux" href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" height="30"/></a> &nbsp;
+  <a title="Nodejs" href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" height="30"/></a> &nbsp;
+  <a title="Expressjs" href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://expressjs.com/images/favicon.png" alt="express" height="30"/></a> &nbsp;
+  <a title="Firebase" href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/firebase-2.svg" alt="firebase" height="30"/></a> &nbsp;
   
-  <a title="Chartjs" href="https://www.chartjs.org" target="_blank" rel="noreferrer"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" height="25"/></a> &nbsp;
-  <a title="D3js" href="https://d3js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" height="25"/></a> &nbsp;
-  <a title="Express JS" href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="express" height="25"/></a> &nbsp;
-  <a title="Youtube" href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="25"/></a> &nbsp;
-  <a title="Youtube" href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="25"/></a> &nbsp;
-  <a title="Youtube" href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="25"/></a> &nbsp;
+  <a title="Figma" href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="figma" height="30"/></a> &nbsp;
+  <a title="Photoshop" href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-6.svg" alt="photoshop" height="30"/></a> &nbsp;
+
+  <a title="React Native" href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="reactnative" height="30"/></a> &nbsp;
   
-  <a title="Youtube" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="25"/></a> &nbsp;
-  <a title="Youtube" href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/mariadb-icon-512x340-txozryr2.png" alt="mariadb" height="25"/></a> &nbsp;
+  <a title="Git" href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" height="30"/></a> &nbsp;
   
-  <a title="Youtube" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="25"/></a> &nbsp;
-  <a title="Youtube" href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="25"/></a> &nbsp;
-  <a title="Youtube" href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://media.dev.to/cdn-cgi/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4unrrweuaj1wyh25npgt.jpeg" alt="nextjs" height="25"/></a> &nbsp;
-  <a title="Youtube" href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="25"/></a> &nbsp;
-  <a title="Youtube" href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" height="25"/></a> &nbsp;
-  <a title="Youtube" href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="25"/></a> &nbsp;
-  <a title="Youtube" href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="25"/></a> &nbsp;
-  <a title="Youtube" href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="25"/></a> &nbsp;
-  <a title="Youtube" href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" height="25"/></a> &nbsp;
-  <a title="Youtube" href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="25"/></a> &nbsp;
-  <a title="Youtube" href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" height="25"/></a> &nbsp;
+ 
+  <a title="Mariadb" href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/mariadb-icon-512x340-txozryr2.png" alt="mariadb" height="25"/></a> &nbsp;
   
-  <a title="Youtube" href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" height="25"/></a>
+  <a title="Mongodb" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="25"/></a> &nbsp;
+  <a title="Mysql" href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="25"/></a> &nbsp;
+  
+  
+  
+  <a title="PHP" href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="25"/></a> &nbsp;
+  <a title="Postman" href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="25"/></a> &nbsp;
+  
+  
 </p>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webhazrat&label=Profile%20views&color=0e75b6&style=flat" alt="webhazrat" /> </p>
